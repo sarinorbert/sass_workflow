@@ -1,0 +1,20 @@
+{
+  "name": "sass_starter",
+  "version": "1.0.0",
+  "description": "Starter pack to workflow",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Sass workflow"
+  },
+  "author": "Norbert Sari",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
+  }
+}

@@ -1,13 +1,24 @@
 # My Sass Workflow
 
-If you want to run the server in watch mode write in the console
+This is just a quick server setup.
+First you have to run.
+```
+npm install
+```
+And after you can run
 ```
 npm start
 ```
 or
-### gulp
+```
+gulp
+```
 
 Or if you want minify the SASS without the watch mode
-### npm start minify
+```
+npm start minify
+```
 or
-### gulp minify
+```
+gulp minify
+```

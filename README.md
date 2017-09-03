@@ -5,6 +5,8 @@ First you have to run.
 ```
 npm install
 ```
+This will install all the dependencies.
+
 And after you can run
 ```
 npm start

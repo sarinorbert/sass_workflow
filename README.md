@@ -1,7 +1,9 @@
 # My Sass Workflow
 
 If you want to run the server in watch mode write in the console
-### npm start
+```
+npm start
+```
 or
 ### gulp
 
